@@ -6,7 +6,8 @@ linear regression model that predicts the outcome for a tennis player based on t
 - Pandas
 - Seaborn
 - Matplotlib
+- Numpy
 
 ## About
-This model is an extension of a [Code Academy](www.codeacademy.com) learning project. It's a more complex aproach using diferent techniques. 
+This model is an extension of a [Code Academy](https://www.codecademy.com/learn) learning project. It's a more complex aproach using diferent techniques. 
 
