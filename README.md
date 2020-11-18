@@ -9,5 +9,5 @@ model that predicts the outcome for a tennis player based on their playing habit
 - Numpy
 
 ## About
-This model is an extension of a [Code Academy](https://www.codecademy.com/learn) learning project. It's a more complex aproach using diferent techniques. 
+This model is an extension of a [Codecademy](https://www.codecademy.com/learn) learning project. It's a more complex aproach using diferent techniques. 
 
